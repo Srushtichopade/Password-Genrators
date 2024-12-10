@@ -1,2 +1,2 @@
-# Password-Genrators
+# Password-Generators
 html , css , JavaScript
